@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474801637365",
+    "firebase_url": "https://plan-wa.firebaseio.com",
+    "project_id": "plan-wa",
+    "storage_bucket": "plan-wa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474801637365:android:99a2669068b72f133702bc",
+        "android_client_info": {
+          "package_name": "com.k.waunee.planwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474801637365-4dm54jjca9i57u3emc5oq4sartitgfhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZow4pdBX90PRVKS9P2N1Z0UhoyY2NuKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474801637365-4dm54jjca9i57u3emc5oq4sartitgfhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
