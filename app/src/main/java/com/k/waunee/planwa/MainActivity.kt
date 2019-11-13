@@ -73,11 +73,6 @@ class MainActivity : AppCompatActivity() {
         database.child(STATEMENT_KEY).addListenerForSingleValueEvent(listener)
     }
 
-    private fun writeNewUser(userId: String, name: String, email: String?) {
-        val user = User(name, email)
-        database.child("users").child(userId).setValue(user)
-    }
-
     private fun setTextStatement(list :MutableList<Statement>){
         val textView = findViewById<TextView>(R.id.text_data)
         var msg :String = ""
